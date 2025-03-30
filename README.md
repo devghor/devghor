@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there
 
-I am a full-stack software engineer. My professional experience includes 7+ years of web technology like laravel, golang, vue, react.
+I am a full-stack software engineer. My professional experience includes 7+ years of web technology like laravel, node.js golang, vue, react.
 
 
 ## 🛠 &nbsp;Tech Stack
