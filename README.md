@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello there!
 
-I'm a **Full-Stack Software Engineer** with over **7 years of experience** specializing in modern web technologies.  
+I'm a **Full-Stack Software Engineer** specializing in modern web technologies.  
 I’ve worked extensively with **Laravel**, **Node.js**, **Golang**, **Vue**, and **React** to build performant and scalable applications.
 
 ---
