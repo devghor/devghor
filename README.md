@@ -26,14 +26,6 @@ I specialize in **Laravel, Node.js, Golang, Vue, and React**, and I love turning
 
 ---
 
-## 🔭 Current Projects
-
-- **[Coachsome](https://coachsome.com)** – Scalable platform for coaching & online learning built with Laravel, Nuxt.js, Node.js, and Socket.io.  
-- **[Gixter](https://gixter.live)** – Marketplace platform with Quickpay integration, using Laravel, Vue, Nuxt.js, and Directus CMS.  
-- **Open Source Contributions** – Improving HRMS and API tools on GitHub.
-
----
-
 ## 🤝 Connect with Me
 
 [![Mail Me](https://img.shields.io/badge/-Mail%20Me-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hafij.to@gmail.com)  
