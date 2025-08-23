@@ -3,7 +3,6 @@
 I'm a **Full-Stack Software Engineer** building **scalable, high-performance web applications** with modern technologies.  
 I specialize in **Laravel, Node.js, Golang, Vue, and React**, and I love turning complex problems into elegant solutions.
 
----
 
 ## 🛠 Tech Stack
 
@@ -13,7 +12,6 @@ I specialize in **Laravel, Node.js, Golang, Vue, and React**, and I love turning
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
@@ -24,7 +22,6 @@ I specialize in **Laravel, Node.js, Golang, Vue, and React**, and I love turning
   </a>
 </p>
 
----
 
 ## 🤝 Connect with Me
 
@@ -34,7 +31,6 @@ I specialize in **Laravel, Node.js, Golang, Vue, and React**, and I love turning
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hafijur_rah)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devghor)
 
----
 
 ### ⚡ Fun Fact
 
