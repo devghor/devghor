@@ -25,11 +25,7 @@ I specialize in **Laravel, Node.js, Golang, Vue, and React**, and I love turning
 
 ## 🤝 Connect with Me
 
-[![Mail Me](https://img.shields.io/badge/-Mail%20Me-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hafij.to@gmail.com)  
-[![Website](https://img.shields.io/badge/-Portfolio-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://hafij.dev)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hafijur-rahaman/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hafijur_rah)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devghor)
+[![Mail Me](https://img.shields.io/badge/-Mail%20Me-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hafij.to@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hafijur-rahaman/)  [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hafijur_rah)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devghor)
 
 
 ### ⚡ Fun Fact
