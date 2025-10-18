@@ -30,4 +30,4 @@ I specialize in **Laravel, Node.js, Golang, Vue, and React**, and I love turning
 
 ### ⚡ Fun Fact
 
-I love **solving challenging problems**, exploring **blockchain with Golang**, and learning something new every day! 🚀
+I love solving challenging problems, diving deep into system design, and learning something new every day! 🚀
